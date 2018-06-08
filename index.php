@@ -37,7 +37,7 @@ $data = json_decode($json, true);
 		  		echo "+$numbers[$i], ";
 		  	}
 		  		echo "+".end($numbers) ?>
-		  </td>
+			</td>
 		</tr>
 		<?php } ?>
 	</tbody>
