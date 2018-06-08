@@ -1,0 +1,146 @@
+[
+	{
+    "firstName": "Иван",
+    "lastName": "Иванов",
+    "address": {
+      "postalCode": 566543,
+      "city": "г.Москва",
+      "street": "ул.Алиева",
+      "building": "2",
+      "apartment": "345"
+    },
+    "phoneNumbers": ["7 812 123-1234"]
+  },
+  {
+    "firstName": "Петр",
+    "lastName": "Петров",
+    "address": {
+      "postalCode": 345233,
+      "city": "г.Норильск",
+      "street": "ул.Мичурина",
+      "building": "35",
+      "apartment": ""
+    },
+    "phoneNumbers": ["7 345 574-3454", "7 646 314-0643"]
+  },
+  {
+    "firstName": "Федор",
+    "lastName": "Федоров",
+    "address": {
+      "postalCode": 837445,
+      "city": "г.Таганрог",
+      "street": "просп.Куклачева",
+      "building": "9",
+      "apartment": "54"
+    },
+    "phoneNumbers": ["7 678 234-9564"]
+  },
+  {
+    "firstName": "Игнат",
+    "lastName": "Игнатов",
+    "address": {
+      "postalCode": 735628,
+      "city": "г.Волоколамск",
+      "street": "ул.Косыгина",
+      "building": "5е",
+      "apartment": "21"
+    },
+    "phoneNumbers": ["7 790 535-8967", "7 234 453-1791"]
+  },
+  {
+    "firstName": "Яков",
+    "lastName": "Яковлев",
+    "address": {
+      "postalCode": 664883,
+      "city": "г.Орел",
+      "street": "ул.Черномырдина",
+      "building": "9/7",
+      "apartment": "74"
+    },
+    "phoneNumbers": ["7 794 254-5690", "7 987 245-1333"]
+  },
+  {
+    "firstName": "Степан",
+    "lastName": "Степанов",
+    "address": {
+      "postalCode": 746555,
+      "city": "г.Абакан",
+      "street": "ул.Луначарского",
+      "building": "2",
+      "apartment": null
+    },
+    "phoneNumbers": ["7 567 234-8568", "7 686 568-6000"]
+  },
+  {
+    "firstName": "Гавриил",
+    "lastName": "Гаврилов",
+    "address": {
+      "postalCode": 112567,
+      "city": "г.Архангельск",
+      "street": "ул.Репина",
+      "building": "34",
+      "apartment": "754"
+    },
+    "phoneNumbers": ["7 457 287-8553", "7 358 585-3986"]
+  },
+  {
+    "firstName": "Михаил",
+    "lastName": "Михайлов",
+    "address": {
+      "postalCode": 868943,
+      "city": "г.Анапа",
+      "street": "ул.Троцкого",
+      "building": "1",
+      "apartment": "35"
+    },
+    "phoneNumbers": ["7 856 954-9863", "7 875 547-6455", "7 297 235-9144"]
+  },
+  {
+    "firstName": "Сергей",
+    "lastName": "Сергеев",
+    "address": {
+      "postalCode": 999542,
+      "city": "г.Магадан",
+      "street": "ул.Свободы",
+      "building": "100",
+      "apartment": ""
+    },
+    "phoneNumbers": ["10 967 746-8355"]
+  },
+  {
+    "firstName": "Юрий",
+    "lastName": "Юрьев",
+    "address": {
+      "postalCode": 764986,
+      "city": "г.Киров",
+      "street": "ул.Чайковского",
+      "building": "97",
+      "apartment": "43"
+    },
+    "phoneNumbers": ["7 735 754-0848", "7 735 754-0848"]
+  },
+  {
+    "firstName": "Семен",
+    "lastName": "Семенов",
+    "address": {
+      "postalCode": 649376,
+      "city": "г.Тверь",
+      "street": "ул.Джавахарлала Неру",
+      "building": "3",
+      "apartment": "10"
+    },
+    "phoneNumbers": ["3 618 124-8435", "40 357 217-8618", "7 968 876-7654", "7 874 532-8334"]
+  },
+  {
+    "firstName": "Николай",
+    "lastName": "Николаев",
+    "address": {
+      "postalCode": 936478,
+      "city": "г.Старый Оскол",
+      "street": "пл.Пушкина",
+      "building": "2а",
+      "apartment": "6"
+    },
+    "phoneNumbers": ["7 103 637-7262", "7 343 179-8755"]
+  }
+]
